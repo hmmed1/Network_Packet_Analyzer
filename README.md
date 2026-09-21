@@ -11,5 +11,4 @@ In this initial release, the focus was on building the core logic from scratch:
 - Extracting low-level protocol fields directly from raw packet bytes.
 
 ---
-
-*Stay tuned for Version 2!*
+![Live Test](docs/packet_capture.png)
